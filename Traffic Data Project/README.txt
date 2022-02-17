@@ -1,0 +1,1 @@
+This is a visualization of a little over a hundred traffic accidents in the state of Texas.

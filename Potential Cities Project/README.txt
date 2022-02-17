@@ -1,0 +1,1 @@
+This is a little project that I did to compare home values and crime rates in a handful of cities that my wife and I were considering to move to.
